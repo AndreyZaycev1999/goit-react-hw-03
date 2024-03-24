@@ -8,3 +8,9 @@
     padding: 8px 15px;
     border-radius: 5px;
 }
+
+.element_contact {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
